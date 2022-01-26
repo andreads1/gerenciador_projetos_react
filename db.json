@@ -7,22 +7,20 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 200,
-      "services": [
-        {
-          "name": "Meu novo serviço",
-          "cost": "100",
-          "description": "Testando service",
-          "id": "5533de7c-b3c7-4ebf-9818-d651ee2cffb0"
-        },
-        {
-          "name": "Meu novo serviço 2",
-          "cost": "100",
-          "description": "Testando service",
-          "id": "d15e404d-a012-4186-b012-ab4ae62d7528"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
